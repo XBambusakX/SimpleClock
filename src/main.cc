@@ -12,8 +12,8 @@
 
 #include "render.hpp"
 
-const int dgWidth{206};
-const int dgHeight{50};
+const int dgWidth{190};
+const int dgHeight{32};
 const int dgFontSize1{40};
 const int dgFontSize2{24};
 
