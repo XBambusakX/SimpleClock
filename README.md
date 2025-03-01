@@ -13,8 +13,9 @@ This is a simple clock application built with SDL3 and C++. It displays the curr
 
 * A C++ compiler (e.g., g++)
 * SDL3 development libraries (including SDL3\_ttf)
+* Electroharmonix.otf font, installed in /usr/share/fonts
 * Make (for build automation)
-* Linux operating system (primarily tested on Linux, may not work on other platforms).
+* Linux operating system.
 * Hyprland (if you want to configure the window position using the window rules).
 
 **Building:**
